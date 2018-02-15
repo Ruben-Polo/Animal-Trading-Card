@@ -1,0 +1,26 @@
+h3{ padding-left: 10px;
+  font-size: X-large;
+margin-bottom: 5px;
+margin-top: 10px;}
+img{
+  margin: 5px 10px;
+}
+.Fun-fact{
+  font-style: italic;
+  
+}
+ul {
+  padding-left:0px;
+  list-style: none;
+}
+
+.First-border{
+  border: 2px solid #e8e8e8;
+  width: 320px;
+  box-shadow: 5px 5px 0px #e8e8e8;
+}
+.Second-border{
+  border: 2px solid #e8e8e8;
+  margin: 10px 10px;
+  padding: 10px;
+}
