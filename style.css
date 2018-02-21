@@ -1,10 +1,10 @@
-h3 {
+.name {
     padding-left: 7px;
     font-size: X-large;
     margin: 10px 5px;
 }
 
-img {
+.photo {
     margin: 5px 10px;
 }
 
@@ -12,8 +12,8 @@ img {
     font-style: italic;
 }
 
-ul {
-    padding-left: 0px;
+.list {
+    padding: 2px;
     list-style: none;
 }
 
